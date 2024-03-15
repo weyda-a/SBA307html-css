@@ -1,0 +1,14 @@
+table {
+    display: flexbox;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    justify-self: center;
+    background-color: #a3b18a;
+    border: 1px solid black;
+}
+
+h1 {
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
